@@ -62,6 +62,7 @@ tasks:
       MM_FEATUREFLAGS_AppsEnabled: true
       MM_LOGSETTINGS_CONSOLELEVEL: DEBUG
       MM_LOGSETTINGS_FILELEVEL: DEBUG
+      MM_SQLSETTINGS_DRIVERNAME: postgres
 
   - name: Webapp
     before: |
