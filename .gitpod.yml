@@ -60,6 +60,7 @@ tasks:
       MM_FEATUREFLAGS_AppsEnabled: true
       MM_LOGSETTINGS_CONSOLELEVEL: DEBUG
       MM_LOGSETTINGS_FILELEVEL: DEBUG
+      MM_SERVER_PATH: /workspace/mattermost/server
 
   - name: Webapp
     before: |
