@@ -30,6 +30,8 @@ vscode:
   extensions:
     - golang.go
     - dbaeumer.vscode-eslint
+    - GitHub.copilot
+    - GitHub.copilot-chat
 
 workspaceLocation: mattermost-gitpod-config/mattermost.code-workspace
 
